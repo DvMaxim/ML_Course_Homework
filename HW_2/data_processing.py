@@ -7,7 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import os
-from data_loader import DataLoader
+from HW_2.data_loader import DataLoader
 
 
 class DataProcessing:
