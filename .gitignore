@@ -1,6 +1,9 @@
 #IDE data folder
 .idea
 
+#Project exceptions
+HW_4/catboost_info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
